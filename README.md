@@ -6,10 +6,11 @@
 
 * **[阿里巴巴编码规范（Java）](https://edu.aliyun.com/course/417)**
 * **[JVM调优参数生成器](http://xxfox.perfma.com/jvm/generate)**
+* [Google Guava官方教程（中文版）](http://ifeve.com/google-guava/)
 * [你可以在30秒或更短时间内收集有用的Java8代码片段。](https://github.com/biezhi/30-seconds-of-java8)
 * [你忽略了的新特性](https://zhuanlan.zhihu.com/p/28160344)
 * [Spring Boot 2.0 15分钟入门教程](https://spring.io/guides/gs/spring-boot/)
-
+* [Awsome Java开源类库](https://github.com/akullpp/awesome-java)
 * [知识结构梳理](https://segmentfault.com/a/1190000013561054)
 * [The Java® Language Specification](https://docs.oracle.com/javase/specs/jls/se8/html/)
 
@@ -23,6 +24,7 @@
 
 # Web开发
 
+* [类库框架（选型）](https://github.com/sindresorhus/awesome)
 * [restful api设计参考](http://zalando.github.io/restful-api-guidelines/)
 * [restful api进阶指南](./Web-design-the-missing-link-ebook-2016-11.pdf)
 
@@ -44,7 +46,6 @@
 * [分布式系统的事务处理](https://coolshell.cn/articles/10910.html)
 * [High Availability Concepts and Best Practices](https://docs.oracle.com/cd/A91202_01/901_doc/rac.901/a89867/pshavdtl.htm#10853)
 * [Transactions Across Datacenters](http://snarfed.org/transactions_across_datacenters_io.html)
-* 
 
 # 测试
 
