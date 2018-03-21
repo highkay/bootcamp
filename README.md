@@ -5,6 +5,7 @@
 # Java
 
 * **[阿里巴巴编码规范（Java）](https://edu.aliyun.com/course/417)**
+* **[JVM调优参数生成器](http://xxfox.perfma.com/jvm/generate)**
 * [你可以在30秒或更短时间内收集有用的Java8代码片段。](https://github.com/biezhi/30-seconds-of-java8)
 * [你忽略了的新特性](https://zhuanlan.zhihu.com/p/28160344)
 * [Spring Boot 2.0 15分钟入门教程](https://spring.io/guides/gs/spring-boot/)
@@ -40,6 +41,10 @@
 # 软件工程
 
 * [关于高可用的系统](https://coolshell.cn/articles/17459.html)
+* [分布式系统的事务处理](https://coolshell.cn/articles/10910.html)
+* [High Availability Concepts and Best Practices](https://docs.oracle.com/cd/A91202_01/901_doc/rac.901/a89867/pshavdtl.htm#10853)
+* [Transactions Across Datacenters](http://snarfed.org/transactions_across_datacenters_io.html)
+* 
 
 # 测试
 
