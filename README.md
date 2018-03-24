@@ -46,6 +46,7 @@
 * [分布式系统的事务处理](https://coolshell.cn/articles/10910.html)
 * [High Availability Concepts and Best Practices](https://docs.oracle.com/cd/A91202_01/901_doc/rac.901/a89867/pshavdtl.htm#10853)
 * [Transactions Across Datacenters](http://snarfed.org/transactions_across_datacenters_io.html)
+* [Dynamo：Amazon的高可用性的键-值存储系统](./dynamo.docx)[英文原版](./dynamo.pdf)
 
 # 测试
 
@@ -53,5 +54,6 @@
 
 # 培训和认证
 
+* [国内第一款专注于知识体系搭建的网站](http://treenpool.com/)
 * [阿里云大学](https://edu.aliyun.com/)
 * [Aws Training](http://aws.training/)
