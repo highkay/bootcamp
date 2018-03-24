@@ -2,7 +2,7 @@
 
 这里记录了我平时工作学习中看到的比较深入的和有价值的文章，希望可以和团队里的同学可以一起学习提高。除了知识点和应用技能作为知识库之外，下一步我还想加入包含测试评估的环节，欢迎issue你的新想法和pr。
 
-# Java
+## Java
 
 * **[阿里巴巴编码规范（Java）](https://edu.aliyun.com/course/417)**
 * **[JVM调优参数生成器](http://xxfox.perfma.com/jvm/generate)**
@@ -13,34 +13,42 @@
 * [Awsome Java开源类库](https://github.com/akullpp/awesome-java)
 * [知识结构梳理](https://segmentfault.com/a/1190000013561054)
 * [The Java® Language Specification](https://docs.oracle.com/javase/specs/jls/se8/html/)
+* [Java NIO最简明教程](http://tutorials.jenkov.com/java-nio/index.html)
 
-# Golang
+## Golang
 
 * [Go知识图谱](https://www.processon.com/view/link/5a9ba4c8e4b0a9d22eb3bdf0)
 
-# Python
+## Python
 
 * [Python超简洁教程](https://jizhi.im/blog/post/pythonbasics)
 
-# Web开发
+## Web开发
 
 * [类库框架（选型）](https://github.com/sindresorhus/awesome)
 * [restful api设计参考](http://zalando.github.io/restful-api-guidelines/)
 * [restful api进阶指南](./Web-design-the-missing-link-ebook-2016-11.pdf)
 
-# 机器学习/深度学习/人工智能
+## 数据库
+
+* [SQL必知必会](.\SQL_Essential.pdf)
+
+## 机器学习/深度学习/人工智能
 
 * [机器学习一图流](./machine_learning_infogram.pdf)
 
-# Devops
+## Devops
 
 * [habor镜像管理后台](https://vmware.github.io/harbor/cn/)
 
-# 编程方法
+## 编程方法
 
+* [用UNIX的设计思想来应对多变的需求](https://coolshell.cn/articles/7236.html)
+* [从面向对象的设计模式看软件设计](https://coolshell.cn/articles/8961.html)
+* [函数式编程](https://coolshell.cn/articles/10822.html)
 * [The Little Manual of API Design](./api-design.pdf)
 
-# 软件工程
+## 软件工程
 
 * [关于高可用的系统](https://coolshell.cn/articles/17459.html)
 * [分布式系统的事务处理](https://coolshell.cn/articles/10910.html)
@@ -48,11 +56,11 @@
 * [Transactions Across Datacenters](http://snarfed.org/transactions_across_datacenters_io.html)
 * [Dynamo：Amazon的高可用性的键-值存储系统](./dynamo.docx)[英文原版](./dynamo.pdf)
 
-# 测试
+## 测试
 
 * [编写可测试的代码](./Guide-Writing_Testable_Code.pdf)
 
-# 培训和认证
+## 培训和认证
 
 * [国内第一款专注于知识体系搭建的网站](http://treenpool.com/)
 * [阿里云大学](https://edu.aliyun.com/)
