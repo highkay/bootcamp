@@ -16,7 +16,7 @@
 * [Java NIO 最简明教程](http://tutorials.jenkov.com/java-nio/index.html)
 * [awesome-java（选型）](https://github.com/akullpp/awesome-java)
 * [Java 虚拟机规范（Java SE 7）](./jvm_spec_7.pdf)
-* [Java 并发编程](./java_concurrency_in_practice.pdf)
+* [Java 并发编程实战](./java_concurrency_in_practice.pdf)
 * [深入理解 Java 虚拟机](./understanding_the_jvm.pdf)
 
 ## Golang
@@ -57,15 +57,12 @@
 * [habor 镜像管理后台](https://vmware.github.io/harbor/cn/)
 * [Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes#!)
 
-## 编程方法
+## 软件工程
 
 * [用 UNIX 的设计思想来应对多变的需求](https://coolshell.cn/articles/7236.html)
 * [从面向对象的设计模式看软件设计](https://coolshell.cn/articles/8961.html)
 * [函数式编程](https://coolshell.cn/articles/10822.html)
 * [The Little Manual of API Design](./api-design.pdf)
-
-## 软件工程
-
 * [关于高可用的系统](https://coolshell.cn/articles/17459.html)
 * [分布式系统的事务处理](https://coolshell.cn/articles/10910.html)
 * [High Availability Concepts and Best Practices](https://docs.oracle.com/cd/A91202_01/901_doc/rac.901/a89867/pshavdtl.htm#10853)
