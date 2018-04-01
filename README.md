@@ -24,6 +24,10 @@
 * [Go 知识图谱](https://www.processon.com/view/link/5a9ba4c8e4b0a9d22eb3bdf0)
 * [awesome-go（选型）](https://github.com/avelino/awesome-go)
 
+## Javascript
+
+* [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
+
 ## Python
 
 * [Python 超简洁教程](https://jizhi.im/blog/post/pythonbasics)
