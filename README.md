@@ -43,6 +43,7 @@
 ## 数据库
 
 * [SQL 必知必会](.\SQL_Essential.pdf)
+* [58 到家 MySQL 军规升级版](https://mp.weixin.qq.com/s/YfCORbcCX1hymXBCrZbAZg)
 
 ## 机器学习/深度学习/人工智能
 
