@@ -53,6 +53,10 @@
 
 ## 云计算
 
+### 架构
+
+* [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+
 ### 网络
 
 * [SDN 入门](https://tonydeng.github.io/sdn-handbook/)
