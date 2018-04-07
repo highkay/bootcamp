@@ -78,6 +78,10 @@
 * [Transactions Across Datacenters](http://snarfed.org/transactions_across_datacenters_io.html)
 * [Dynamo：Amazon 的高可用性的键-值存储系统](./dynamo.docx)[英文原版](./dynamo.pdf)
 
+## 算法
+
+* [P versus NP problem](https://en.wikipedia.org/wiki/P_versus_NP_problem)
+
 ## 测试
 
 * [编写可测试的代码](./Guide-Writing_Testable_Code.pdf)
