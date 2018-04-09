@@ -60,6 +60,9 @@
 ### 网络
 
 * [SDN 入门](https://tonydeng.github.io/sdn-handbook/)
+* [Software Defined Networking课程](https://www.coursera.org/learn/sdn)
+* [从熟悉领域研究SDN&OpenFlow？](https://www.zhihu.com/question/27336289/answer/92617122)
+* [如何去研究SDN&OpenFlow？](https://www.zhihu.com/question/21834316/answer/25944024)
 
 ### 容器
 
