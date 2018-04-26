@@ -43,6 +43,7 @@
 ## 数据库
 
 * [SQL 必知必会](.\SQL_Essential.pdf)
+* [MySQL 优化基础](https://mp.weixin.qq.com/s?__biz=MzI3MTAyNTQ2OA==&mid=2247484248&idx=1&sn=0d45437fdeb62539bd65be9db2803944)
 * [58 到家 MySQL 军规升级版](https://mp.weixin.qq.com/s/YfCORbcCX1hymXBCrZbAZg)
 
 ## 机器学习/深度学习/人工智能
@@ -60,9 +61,9 @@
 ### 网络
 
 * [SDN 入门](https://tonydeng.github.io/sdn-handbook/)
-* [Software Defined Networking课程](https://www.coursera.org/learn/sdn)
-* [从熟悉领域研究SDN&OpenFlow？](https://www.zhihu.com/question/27336289/answer/92617122)
-* [如何去研究SDN&OpenFlow？](https://www.zhihu.com/question/21834316/answer/25944024)
+* [Software Defined Networking 课程](https://www.coursera.org/learn/sdn)
+* [从熟悉领域研究 SDN&OpenFlow？](https://www.zhihu.com/question/27336289/answer/92617122)
+* [如何去研究 SDN&OpenFlow？](https://www.zhihu.com/question/21834316/answer/25944024)
 
 ### 容器
 
@@ -83,6 +84,7 @@
 
 ## 算法
 
+* [图解算法](https://idea-instructions.com/)
 * [P versus NP problem](https://en.wikipedia.org/wiki/P_versus_NP_problem)
 
 ## 测试
